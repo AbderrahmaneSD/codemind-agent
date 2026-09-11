@@ -1,0 +1,22 @@
+# LangChain / LangGraph
+langgraph>=0.2.0
+langchain>=0.2.0
+langchain-groq>=0.1.0
+langchain-core>=0.2.0
+
+# Embeddings + vector search
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+
+# Gradio UI
+gradio>=4.0.0
+
+# HTTP
+requests>=2.31.0
+
+# Config
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=8.0.0
+pytest-mock>=3.12.0
