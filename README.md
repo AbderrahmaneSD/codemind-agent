@@ -39,7 +39,7 @@ User input
 
 | Tool | What it does |
 |---|---|
-| `code_reader` | Semantic search over a local codebase using FAISS (reuses [ml-research-assistant](https://github.com/AbderrahmaneOd/ml-research-assistant) embeddings stack) |
+| `code_reader` | Semantic search over a local codebase using FAISS (reuses [ml-research-assistant](https://github.com/AbderrahmaneSD/ml-research-assistant) embeddings stack) |
 | `github_tool` | Fetches PR diffs via the GitHub REST API |
 | `repl_tool` | Executes Python in a subprocess to verify fixes or run tests |
 | `doc_search` | RAG over Python/framework docs (reuses ml-research-assistant RAG pipeline) |
